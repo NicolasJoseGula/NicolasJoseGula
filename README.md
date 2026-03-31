@@ -1,8 +1,8 @@
 <h1>p314d0</h1>
 
 # 💫 About Me:
-I love Offensive Security and technology. 🔭 I’m currently working on [AI things](https://github.com/p314dO/AI-Engineering).
-- This is my [BLOG](https://p314do.github.io/secai/)
+I love Offensive Security and technology. 🔭 I’m currently working on [AI things](https://github.com/nicolasjosegula/AI-Engineering).
+- This is my [BLOG](https://nicolasjosegula.github.io/secai/)
 - This is my [LINKEDIN](https://www.linkedin.com/in/nicolasgula/)
 
 <a href="https://images.credential.net/badge/tiny/aw9eh36l_1765370531658_badge.png" target="_blank"><img width="80" height="80" src="https://images.credential.net/badge/tiny/aw9eh36l_1765370531658_badge.png" /></a>
@@ -24,9 +24,9 @@ I love Offensive Security and technology. 🔭 I’m currently working on [AI th
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=p314dO&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=p314dO&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=p314dO&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nicolasjosegula&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nicolasjosegula&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjosegula&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
