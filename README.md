@@ -27,7 +27,7 @@ I love Offensive Security and technology. 🔭 I’m currently working on [AI th
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nicolasjosegula&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nicolasjosegula&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjosegula&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Nicolas's GitHub stats](https://github-stats-extended.vercel.app/api?username=nicolasjosegula)](https://github.com/stats-organization/github-stats-extended)
 
 
 ### ✍️ Random Dev Quote
