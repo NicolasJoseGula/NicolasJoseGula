@@ -7,6 +7,7 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## AI Engineer Projects
+- 🦙 **[Llama GPT](https://github.com/NicolasJoseGula/LLamaGPT)** - Working with LLMs.
 - 💬 **[Automated Support Knowledge Base](https://github.com/NicolasJoseGula/Automated-Support-Knowledge-Base)** - Upload documents and get answers.
 - 🤖 **[Butler Agent](https://github.com/NicolasJoseGula/Butler-Agent)** - A conversational AI agent.
 - 📊 **[Datacamp Projects](https://github.com/NicolasJoseGula/Datacamp-Projects)** - Projects that build in Datacamp courses.
